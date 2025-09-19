@@ -2,13 +2,13 @@
 
 Interactive visualization of the Ricart-Agrawala distributed mutual exclusion algorithm built with React.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Now-green?style=for-the-badge)](https://richardalgo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Now-green?style=for-the-badge)](https://richart-algo-for-distributed-lock-m.vercel.app/)
 [![React](https://img.shields.io/badge/React-19.1.1-61dafb)](https://reactjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 🎯 Live Demo
 
-**👉 [Try the Interactive Demo](https://richardalgo.vercel.app)**
+**👉 [Try the Interactive Demo](https://richart-algo-for-distributed-lock-m.vercel.app/)**
 
 Experience the algorithm in action with real-time visualization and interactive controls.
 
@@ -24,7 +24,7 @@ The Ricart-Agrawala algorithm is a distributed algorithm that ensures mutual exc
 ## 🚀 Quick Start
 
 ### Live Demo (Recommended)
-Visit the [live demo](https://richardalgo.vercel.app) to try the algorithm without any setup.
+Visit the [live demo](https://richart-algo-for-distributed-lock-m.vercel.app/) to try the algorithm without any setup.
 
 ### Local Development
 
